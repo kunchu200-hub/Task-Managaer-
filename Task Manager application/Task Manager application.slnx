@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Task Manager application/Task Manager application.vcxproj" Id="daf5ca4c-552b-4e1f-9c9e-5af86ba79bf6" />
+</Solution>
